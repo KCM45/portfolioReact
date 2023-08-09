@@ -2,13 +2,13 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <header class="header">
-      <a href="#" class="logo">
+    <header className="header">
+      <a href="#" className="logo">
         <span>Co</span>rey
       </a>
-      <div class="bx bx-menu" id="menu-icon"></div>
-      <nav class="navbar">
-        <a href="#home" class="active">
+      <div className="bx bx-menu" id="menu-icon"></div>
+      <nav className="navbar">
+        <a href="#home" className="active">
           Home
         </a>
         <a href="#about">About</a>
@@ -17,7 +17,7 @@ export default function Navbar() {
         <a href="#portfolio">Portfolio</a>
         <a href="#contact">Let's Talk</a>
 
-        <span class="active-nav"></span>
+        <span className="active-nav"></span>
       </nav>
     </header>
   );

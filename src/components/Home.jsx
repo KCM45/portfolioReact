@@ -2,15 +2,15 @@ import React from "react";
 
 export default function Home() {
   return (
-    <section class="home" id="home">
-      <div class="home-content">
+    <section className="home" id="home">
+      <div className="home-content">
         <h1>
           Hey. I'm{" "}
           <span>
             <span>Corey</span> McKenzie
           </span>
         </h1>
-        <div class="text-animate">
+        <div className="text-animate">
           <h3>Full Stack Web Developer</h3>
         </div>
         <p>
@@ -19,25 +19,25 @@ export default function Home() {
           harum accusantium laudantium animi, quia blanditiis recusandae
           aspernatur in quibusdam neque. Recusandae?
         </p>
-        <div class="btn-box">
-          <a href="#contact" class="btn">
+        <div className="btn-box">
+          <a href="#contact" className="btn">
             Let's Talk
           </a>
         </div>
       </div>
-      <div class="home-sci">
+      <div className="home-sci">
         <a href="https://github.com/KCM45">
-          <i class="bx bxl-github"></i>
+          <i className="bx bxl-github"></i>
         </a>
         <a href="https://www.linkedin.com/in/corey-mckenzie/">
-          <i class="bx bxl-linkedin"></i>
+          <i className="bx bxl-linkedin"></i>
         </a>
         <a href="https://www.facebook.com/corey.mckenzie">
-          <i class="bx bxl-facebook"></i>
+          <i className="bx bxl-facebook"></i>
         </a>
       </div>
 
-      <div class="home-imgHover"></div>
+      <div className="home-imgHover"></div>
     </section>
   );
 }
