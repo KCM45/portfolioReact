@@ -4,7 +4,7 @@ import Home from "./components/Home.jsx";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Education from "./components/Education";
-import Portfolio from "./components/Portfolio";
+// import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 
 function App() {
@@ -13,11 +13,10 @@ function App() {
       <Navbar />
       <Home />
       <About />
-      <Skills />
       <Education />
-      <Portfolio />
+      <Skills />
+      {/* <Portfolio /> */}
       <Contact />
-      <h1>ASDFADSF</h1>
     </>
   );
 }
