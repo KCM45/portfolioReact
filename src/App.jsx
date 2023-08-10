@@ -4,8 +4,9 @@ import Home from "./components/Home.jsx";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Education from "./components/Education";
-// import Portfolio from "./components/Portfolio";
+import Projects from "./components/Projects";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -15,8 +16,9 @@ function App() {
       <About />
       <Education />
       <Skills />
-      {/* <Portfolio /> */}
+      <Projects />
       <Contact />
+      <Footer />
     </>
   );
 }

@@ -1,11 +1,8 @@
 import React from "react";
 
 function Footer() {
-  return (
-    <footer>
-      <div class="footer-text"></div>
-    </footer>
-  );
+  const coders = "<Coders/> Never Die";
+  return <footer>{/* <div className="footer-text">{coders}</div> */}</footer>;
 }
 
 export default Footer;
