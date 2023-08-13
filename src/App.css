@@ -246,7 +246,6 @@ section {
 
 .home-sci a:hover {
   color: var(--bg-color);
-  z-index: -1;
 }
 
 .home-sci a::before {
@@ -687,6 +686,7 @@ span {
 @media (max-width: 371px) {
   .home {
     justify-content: center;
+    background: url("https://kcm45.github.io/portfolio3.0/images/portfolio-me.png");
   }
 
   .home-content {
