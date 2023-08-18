@@ -7,8 +7,8 @@ function Projects() {
         My <span>Projects</span>
       </h2>
       <div className="projects-container">
-        <div className="project-card">
-          <div className="project-img"></div>YouTube Clone
+        <div className="project1-card">
+          <div className="project1-img"></div>YouTube Clone
         </div>
       </div>
     </section>
