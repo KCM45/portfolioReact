@@ -43,6 +43,9 @@ function Skills() {
         <a href="#">
           <i className="bx bx-headphone"></i>
         </a>
+        <a href="#">
+          <i className="bx bxl-tailwind-css"></i>
+        </a>
       </div>
     </section>
   );
