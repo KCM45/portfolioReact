@@ -8,7 +8,7 @@ function Skills() {
       </h2>
       <div className="skills-icons">
         <a href="#">
-          <i className="bx bxl-html5"></i>
+          <i className="bx bxl-html5">HTML-5</i>
         </a>
         <a href="#">
           <i className="bx bxl-css3"></i>

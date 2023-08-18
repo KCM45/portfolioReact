@@ -1,8 +1,15 @@
 import React from "react";
 
 function Footer() {
-  const coders = "<Coders/> Never Die";
-  return <footer>{/* <div className="footer-text">{coders}</div> */}</footer>;
+  return (
+    <footer>
+      {
+        <div className="footer-text">
+          Designed and Developed by Corey McKenzie
+        </div>
+      }
+    </footer>
+  );
 }
 
 export default Footer;

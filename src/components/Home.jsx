@@ -11,7 +11,7 @@ export default function Home() {
           </span>
         </h1>
         <div className="text-animate">
-          <h3>Full Stack Web Developer</h3>
+          <h3>Full-Stack Web Developer</h3>
         </div>
         <p>
           My daughter likes to watch Avatar the Last Airbender. My daughter's
