@@ -7,7 +7,7 @@ export default function About() {
         About <span>Me</span>
       </h2>
       <div className="about-img">
-        <img src="/src/assets/images/about.png" alt="About me"></img>
+        <img src="./src/assets/images/about.png" alt="About me"></img>
         <span className="circle-spin"></span>
       </div>
       <div className="about-content">
