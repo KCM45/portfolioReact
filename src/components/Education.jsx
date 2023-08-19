@@ -41,13 +41,13 @@ function Education() {
                 </div>
                 <h3>Data Science and Business Intelligence</h3>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Fugiat eligendi sequi, amet magni dolor a doloremque modi,
-                  doloribus voluptas non voluptates, in delectus.{" "}
+                  Worked prodiminately in the healthcare analytics space in
+                  roles such as analytics manager, data integration developer,
+                  data analyst, and business intelligence developer.
                 </p>
               </div>
             </div>
-            <div className="education-content">
+            {/* <div className="education-content">
               <div className="content">
                 <div className="year">
                   <i className="bx bxs-calendar"></i>2016 - 2019
@@ -55,7 +55,7 @@ function Education() {
                 <h3>MS Data Science - Indiana University</h3>
                 <p>Magna Cum Laude </p>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

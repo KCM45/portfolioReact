@@ -14,10 +14,8 @@ export default function Home() {
           <h3>Full-Stack Web Developer</h3>
         </div>
         <p>
-          My daughter likes to watch Avatar the Last Airbender. My daughter's
-          name is Lorraine. My son's name is Calvin. He likes to play Minecraft.
-          harum accusantium laudantium animi, quia blanditiis recusandae
-          aspernatur in quibusdam neque. Recusandae?
+          I have a passion for crafting seamless and engaging online
+          experiences. Let's collaborate to bring your web projects to life!
         </p>
         <div className="btn-box">
           <a href="#contact" className="btn">

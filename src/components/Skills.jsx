@@ -7,45 +7,58 @@ function Skills() {
         My <span>Skills</span>
       </h2>
       <div className="skills-icons">
-        <a href="#">
-          <i className="bx bxl-html5">HTML-5</i>
-        </a>
-        <a href="#">
+        <div>
+          <i className="bx bxl-html5"></i>
+          <p>HTML-5</p>
+        </div>
+        <div>
           <i className="bx bxl-css3"></i>
-        </a>
-        <a href="#">
+          <p>CSS</p>
+        </div>
+        <div>
           <i className="bx bxl-javascript"></i>
-        </a>
-        <a href="#">
+          <p>JavaScript</p>
+        </div>
+        <div>
           <i className="bx bxl-mongodb"></i>
-        </a>
-        <a href="#">
+          <p>MongoDB</p>
+        </div>
+        <div>
           <i className="bx bxl-python"></i>
-        </a>
-        <a href="#">
+          <p>Python</p>
+        </div>
+        <div>
           <i className="bx bxl-postgresql"></i>
-        </a>
-        <a href="#">
+          <p>PostgreSQL</p>
+        </div>
+        <div>
           <i className="bx bxl-nodejs"></i>
-        </a>
-        <a href="#">
+          <p>NodeJS</p>
+        </div>
+        <div>
           <i className="bx bxl-react"></i>
-        </a>
-        <a href="#">
+          <p>React</p>
+        </div>
+        <div>
           <i className="bx bx-data"></i>
-        </a>
-        <a href="#">
+          <p>Databases</p>
+        </div>
+        <div>
           <i className="bx bxl-visual-studio"></i>
-        </a>
-        <a href="#">
+          <p>VSC</p>
+        </div>
+        <div>
           <i className="bx bx-line-chart-down"></i>
-        </a>
-        <a href="#">
+          <p>Viz</p>
+        </div>
+        <div>
           <i className="bx bx-headphone"></i>
-        </a>
-        <a href="#">
+          <p>Headphones</p>
+        </div>
+        <div>
           <i className="bx bxl-tailwind-css"></i>
-        </a>
+          <p>Tailwind</p>
+        </div>
       </div>
     </section>
   );
