@@ -26,7 +26,7 @@ function Education() {
                   <i className="bx bxs-calendar"></i>2016 - 2019
                 </div>
                 <h3>MS Data Science - Indiana University</h3>
-                <p>Magna Cum Laude </p>
+                <p>Summa Cum Laude </p>
               </div>
             </div>
           </div>
