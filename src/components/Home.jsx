@@ -5,7 +5,7 @@ export default function Home() {
     <section className="home" id="home">
       <div className="home-content">
         <h1>
-          Hey. I'm{" "}
+          Hey. I'm
           <span>
             <span>Corey</span> McKenzie
           </span>

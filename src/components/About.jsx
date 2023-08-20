@@ -1,4 +1,5 @@
 import React from "react";
+import image from "../assets/images/about.png";
 
 export default function About() {
   return (
@@ -7,7 +8,7 @@ export default function About() {
         About <span>Me</span>
       </h2>
       <div className="about-img">
-        <img src="./src/assets/images/about.png" alt="About me"></img>
+        <img src={image} alt="About me"></img>
         <span className="circle-spin"></span>
       </div>
       <div className="about-content">
