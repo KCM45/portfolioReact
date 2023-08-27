@@ -10,7 +10,9 @@ function Projects() {
         <div className="project-card">
           <div className="project-img project1-img"></div>
           <div className="project-info project1-info">
-            <h3>YouTube Clone</h3>
+          <a href="https://main--astounding-babka-632d2d.netlify.app/"><h3>YouTube Clone</h3>
+          </a>
+
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
               nobis saepe, natus, dicta facilis dolore numquam culpa earum
