@@ -10,8 +10,9 @@ function Projects() {
         <div className="project-card">
           <div className="project-img project1-img"></div>
           <div className="project-info project1-info">
-          <a href="https://main--astounding-babka-632d2d.netlify.app/"><h3>YouTube Clone</h3>
-          </a>
+            <a href="https://main--astounding-babka-632d2d.netlify.app/">
+              <h3>YouTube Clone</h3>
+            </a>
 
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
@@ -23,7 +24,9 @@ function Projects() {
         <div className="project-card">
           <div className="project-img project2-img"></div>
           <div className="project-info project2-info">
-            <h3>AI Image Generator</h3>
+            <a href="https://prismatic-axolotl-a944ae.netlify.app/">
+              <h3>AI Article Summarizer</h3>
+            </a>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Dignissimos, facilis dolore eaque cupiditate nulla delectus
